@@ -1,5 +1,5 @@
 # todo-spring-jsp
-Todo management using Spring Boot for Java Language.
+Todo management using Spring MVC Framework for Java Language.
 
 
 
